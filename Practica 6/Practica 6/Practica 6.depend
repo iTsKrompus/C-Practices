@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1699611774 source:c:\users\hugos\documents\practica tp\practica 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1700237913 source:c:\users\hugos\documents\tp x2\practica 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
